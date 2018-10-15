@@ -1,2 +1,2 @@
 # ExerciseGo
-the function is just exercise golang
+学会说服别人，不管你做什么事情，理由是什么，但是一定要能有一个能说服别人的理由。
